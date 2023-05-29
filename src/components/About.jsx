@@ -20,6 +20,15 @@ const About = () => {
               <p>My technical skills include proficiency in programming languages such as Java, Python, C/C++, React, JavaScript, and web development. I have also completed personal projects such as a Unity 2D Platformer Melee Combat Game and a React To-Do Website, which showcase my abilities and interest in programming and game development.
 I am passionate about learning and gaining practical experience in the field of computer science.</p>  
             </div>
+        <div>
+        <Link to='about' smooth={true} duration={500}>
+          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
+
+                About Me
+   
+          </button>
+          </Link>
+        </div>
           </div>
       </div>
     </div>
