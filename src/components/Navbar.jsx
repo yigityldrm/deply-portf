@@ -21,7 +21,7 @@ const Navbar = () => {
    
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-black text-gray-300'>
-         <h1 className=' w-full  text-4xl font-bold text-[#00df9a]'>REACT.</h1>
+         <h1 className=' w-full  text-4xl font-bold text-pink-600'>REACT.</h1>
     
       {/* menu */}
       <ul className='hidden md:flex  items-center  text-white' >
