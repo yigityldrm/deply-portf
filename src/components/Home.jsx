@@ -12,7 +12,7 @@ const Home = () => {
           Yiğit Yıldırım
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-        I am currently studying Computer Engineering as a sophomore at Hacettepe University.
+        I am currently studying Computer Engineering as a junior at Hacettepe University.
         </h2>
       
         <div>
